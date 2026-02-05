@@ -15,7 +15,7 @@ car1.car_details()
 car2.car_details()'''
 
 # Bank Account Class Exercise
-class BankAccount:
+'''class BankAccount:
     def __init__(self, account_number, balance):
         self.account_number = account_number
         self.balance = balance
@@ -39,4 +39,4 @@ acc.deposit(500)
 acc.withdraw(2000)
 acc.deposit(800)
 acc.check_balance()
-acc.details()
+acc.details()'''
