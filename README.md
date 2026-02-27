@@ -34,8 +34,8 @@ The assignments include programs related to:
 
 (New topics will be added as the course progresses.)
 
-👨‍💻 Author: Atharva Parande
-Enrollment number: ADT25SOCB0281
+👨‍💻 Author: Atharva Parande  
+Enrollment Number: ADT25SOCB0281  
 Course: Programming Lab (PL)  
 Academic Year: 2025–2026  
-Institution: MIT ADT University
+Institution: MIT ADT University  
